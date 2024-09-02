@@ -17,15 +17,21 @@ In our lab, we explore intermetallics—compounds where metals and metalloids te
 
 ## Projects
 
-- **[CIF Bond Analyzer](https://github.com/bobleesj/cif-bond-analyzer):** Computes the minimum atomic bonding distances from sites, generating histograms and pair counts.
+- **[CIF Bond Analyzer (CBA)](https://github.com/bobleesj/cif-bond-analyzer):** Computes the minimum atomic bonding distances from sites, generating histograms and pair counts.
 
-- **[Structure Analyzer/Featurizer](https://github.com/bobleesj/structure-analyzer-featurizer):** Generates geometric features of interatomic distances, atomic environment information, and coordination numbers.
+- **[Structure Analyzer/Featurizer (SAF)](https://github.com/bobleesj/structure-analyzer-featurizer):** Generates geometric features of interatomic distances, atomic environment information, and coordination numbers.
 
-- **[Composition Analyzer/Featurizer](https://github.com/bobleesj/composition-analyzer-featurizer):** Generates chemical compositional features and provides tools for filtering, sorting, and merging data.
-  
+- **[Composition Analyzer/Featurizer (CAF)](https://github.com/bobleesj/composition-analyzer-featurizer):** Generates chemical compositional features and provides tools for filtering, sorting, and merging data.
+
+- **[CIF Cleaner](https://github.com/bobleesj/cif-cleaner):** an interactive and codeless program for sorting, pre-processing, and parsing CIF files
+
+- **[cifkit](https://github.com/bobleesj/cifkit):** a Python package for processing large datasets, on the order of tens of thousands, of CIF files.
+
 - **[Mass Calculator](https://github.com/dshirya/mass_calculator):** Calculates the masses of elements in chemical formulas.
   
-- **[XRD Powder Matcher](https://github.com/AlexV-ops/spring_24_solidstate):** Compares experimental .xy powder diffraction data to user-entered .CIF files.
+- **[XRD Powder Matcher](https://github.com/AlexV-ops/spring_24_solidstate):** Compares experimental .xy powder diffraction data to user-entered CIF files.
+
+
 
 ## Why It Matters
 
