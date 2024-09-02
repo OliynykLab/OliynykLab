@@ -22,6 +22,10 @@ In our lab, we explore intermetallics—compounds where metals and metalloids te
 - **[Structure Analyzer/Featurizer](https://github.com/bobleesj/structure-analyzer-featurizer):** Generates geometric features of interatomic distances, atomic environment information, and coordination numbers.
 
 - **[Composition Analyzer/Featurizer](https://github.com/bobleesj/composition-analyzer-featurizer):** Generates chemical compositional features and provides tools for filtering, sorting, and merging data.
+  
+- **[Mass Calculator](https://github.com/dshirya/mass_calculator):** Calculates the masses of elements in chemical formulas.
+  
+- **[XRD Powder Matcher](https://github.com/AlexV-ops/spring_24_solidstate):** Compares experimental .xy powder diffraction data to user-entered .CIF files.
 
 ## Why It Matters
 
