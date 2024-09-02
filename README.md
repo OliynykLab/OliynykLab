@@ -6,7 +6,7 @@ We are the Oliynyk Lab, a research group at CUNY, Hunter College, led by [Dr. An
 
 ## What We Do
 
-In our lab, we explore the wild world of intermetallics—those intriguing compounds where metals and metalloids team up. Our mission? To discover novel compounds, unravel their crystal structures, and see just how far these materials can go.
+In our lab, we explore intermetallics—compounds where metals and metalloids team up. Our mission? To discover novel compounds, unravel their crystal structures, and see just how far these materials can go.
 
 ## How We Do It
 
