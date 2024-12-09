@@ -6,14 +6,14 @@ We are the Oliynyk Lab, a research group at CUNY, Hunter College, led by [Dr. An
 
 ## What We Do
 
-In our lab, we explore intermetallics—compounds where metals and metalloids team up. Our mission? To discover novel compounds, unravel their crystal structures, and see just how far these materials can go.
+In our lab, we explore intermetallics—compounds where metals and metalloids intersect. Our mission? To discover novel compounds, unravel their crystal structures, and see just how far these materials can go.
 
 ## How We Do It
 
 - **High-Temp Synthesis:** We cook up new compounds with methods like sintering, arc-melting, and metal flux growth.
-- **Characterization:** We use powder and single crystal diffraction, along with electron microscopy, to reveal the secrets of our creations.
-- **Mechanical & Electronic Studies:** We dive into the electronic structure and mechanical properties to understand what makes these materials tick.
-- **Machine Learning:** With a special focus on uranium, thorium, and rare-earth intermetallics, we use machine learning to predict crystal structures and physical properties—then validate those predictions in the lab.
+- **Characterization:** We use powder and single crystal diffraction, along with electron microscopy, to reveal the properties of our compounds.
+- **Mechanical & Electronic Studies:** We dive into the electronic structure and mechanical properties to understand what makes these materials special.
+- **Machine Learning:** With a focus on uranium, thorium, and rare-earth intermetallics, we use machine learning to predict crystal structures and physical properties, then validate those predictions in the lab.
 
 ## Projects
 
@@ -23,9 +23,9 @@ In our lab, we explore intermetallics—compounds where metals and metalloids te
 
 - **[Composition Analyzer/Featurizer (CAF)](https://github.com/bobleesj/composition-analyzer-featurizer):** Generates chemical compositional features and provides tools for filtering, sorting, and merging data.
 
-- **[CIF Cleaner](https://github.com/bobleesj/cif-cleaner):** an interactive and codeless program for sorting, pre-processing, and parsing CIF files
+- **[CIF Cleaner](https://github.com/bobleesj/cif-cleaner):** An interactive and codeless program for sorting, pre-processing, and parsing CIF files
 
-- **[cifkit](https://github.com/bobleesj/cifkit):** a Python package for processing large datasets, on the order of tens of thousands, of CIF files.
+- **[cifkit](https://github.com/bobleesj/cifkit):** A Python package for processing large datasets, on the order of tens of thousands, of CIF files.
 
 - **[Mass Calculator](https://github.com/dshirya/mass_calculator):** Calculates the masses of elements in chemical formulas.
   
@@ -35,4 +35,4 @@ In our lab, we explore intermetallics—compounds where metals and metalloids te
 
 ## Why It Matters
 
-By blending cutting-edge synthesis, characterization, and machine learning, we're pushing the boundaries of materials science, one intermetallic at a time.
+By blending cutting-edge syntheses, characterization, and machine learning, we're pushing the boundaries of materials science, one intermetallic at a time.
