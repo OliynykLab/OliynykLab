@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-We are the Oliynyk Lab, a research group at CUNY, Hunter College, led by [Dr. Anton O. Oliynyk](https://hunter.cuny.edu/people/anton-oliynyk/).
+We're the Oliynyk Lab, a research group at CUNY, Hunter College, led by [Dr. Anton O. Oliynyk](https://hunter.cuny.edu/people/anton-oliynyk/).
 
 ## What We Do
 
@@ -10,8 +10,8 @@ In our lab, we explore intermetallics—compounds where metals and metalloids in
 
 ## How We Do It
 
-- **High-Temp Synthesis:** We cook up new compounds with methods like sintering, arc-melting, and metal flux growth.
-- **Characterization:** We use powder and single crystal diffraction, along with electron microscopy, to reveal the properties of our compounds.
+- **High-Temp Synthesis:** We cook new compounds with methods like sintering, arc-melting, and metal flux growth.
+- **Characterization:** We use powder X-ray and single crystal diffraction, along with electron microscopy, to reveal the structure of our compounds.
 - **Mechanical & Electronic Studies:** We dive into the electronic structure and mechanical properties to understand what makes these materials special.
 - **Machine Learning:** With a focus on uranium, thorium, and rare-earth intermetallics, we use machine learning to predict crystal structures and physical properties, then validate those predictions in the lab.
 
@@ -35,4 +35,4 @@ In our lab, we explore intermetallics—compounds where metals and metalloids in
 
 ## Why It Matters
 
-By blending cutting-edge syntheses, characterization, and machine learning, we're pushing the boundaries of materials science, one intermetallic at a time.
+By blending cutting-edge syntheses, characterization, density functional theory and machine learning, we're pushing the boundaries of materials science, one intermetallic at a time.
