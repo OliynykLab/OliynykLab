@@ -17,6 +17,8 @@ In our lab, we explore intermetallics—compounds where metals and metalloids in
 
 ## Projects
 
+- **[CIF Site Analysis](https://github.com/EmilJaffal/Site-Analysis):** Tools for site-specific analysis in crystallographic information files (CIFs), focusing on geometric and structural insights.
+
 - **[CIF Bond Analyzer (CBA)](https://github.com/bobleesj/cif-bond-analyzer):** Computes the minimum atomic bonding distances from sites, generating histograms and pair counts.
 
 - **[Structure Analyzer/Featurizer (SAF)](https://github.com/bobleesj/structure-analyzer-featurizer):** Generates geometric features of interatomic distances, atomic environment information, and coordination numbers.
