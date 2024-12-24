@@ -33,8 +33,6 @@ In our lab, we explore intermetallics—compounds where metals and metalloids in
   
 - **[XRD Powder Matcher](https://github.com/AlexV-ops/spring_24_solidstate):** Compares experimental .xy powder diffraction data to user-entered CIF files.
 
-
-
 ## Why It Matters
 
 By blending cutting-edge syntheses, characterization, density functional theory and machine learning, we're pushing the boundaries of materials science, one intermetallic at a time.
