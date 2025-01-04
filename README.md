@@ -17,6 +17,10 @@ In our lab, we explore intermetallics—compounds where metals and metalloids in
 
 ## Projects
 
+- **[Automated Machine Learning Workflow for Excel Data](https://github.com/AnirudhM2110/Automated-Machine-Learning-Workflow-for-Excel-Data):** Command-line interface to preprocess, analyze, and visualize data using a variety of machine learning models, including both unsupervised (PCA, clustering) and supervised (classification) learning methods. See the demo [here!](https://vimeo.com/1043838404?share=copy)
+
+- **[Structure Type Explorer (STEx)](https://github.com/dshirya/structure-type-explorer):** Python package for visualizing binary compounds on periodic tables and recommending elements for novel compound discovery.
+
 - **[CIF Site Analysis](https://github.com/EmilJaffal/Site-Analysis):** Tools for site-specific analysis in crystallographic information files (CIFs), focusing on geometric and structural insights.
 
 - **[CIF Bond Analyzer (CBA)](https://github.com/bobleesj/cif-bond-analyzer):** Computes the minimum atomic bonding distances from sites, generating histograms and pair counts.
