@@ -17,6 +17,10 @@ In our lab, we explore intermetallics—compounds where metals and metalloids in
 
 ## Projects
 
+- **[High-throughput LMTO](https://github.com/balaranjan/High-throughput-LMTO):** This is a package to automate the steps involved in performing LMTO calculations. The code will take a list of .cif files as input and for each structure in the list, an LMTO calculation will be performed including optimization, band structure calculation, and density of states calculation (DOS). The outputs from band structure and DOS calculation are saved as comma-separated files.
+
+- **[High-throughput LMTO plotter](https://github.com/EmilJaffal/High-throughput-LMTO-plotter):** This script parses .csv files produced by the high-throughput LMTO package and automatically produces easily readable & aesthetically pleasing plots ready for publication, posters or presentations. Run the plotter.py file and input the directory to either: a folder (titled with the composition/structure) or a folder (that can be any name) of folders (titled with the composition/structure).
+
 - **[Automated Machine Learning Workflow for Excel Data](https://github.com/AnirudhM2110/Automated-Machine-Learning-Workflow-for-Excel-Data):** Command-line interface to preprocess, analyze, and visualize data using a variety of machine learning models, including both unsupervised (PCA, clustering) and supervised (classification) learning methods. See the demo [here!](https://vimeo.com/1043838404?share=copy)
 
 - **[Structure Type Explorer (STEx)](https://github.com/dshirya/structure-type-explorer):** Python package for visualizing binary compounds on periodic tables and recommending elements for novel compound discovery.
