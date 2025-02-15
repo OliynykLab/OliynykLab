@@ -17,6 +17,8 @@ In our lab, we explore intermetallics—compounds where metals and metalloids in
 
 ## Projects
 
+- **[XRD Matcher](https://github.com/OliynykLab/XRD-Matcher):** This is an interactive software done in jupyter notebook for user-ease. It will plot a single chosen experimental x-ray diffraction (.xy) file and allow you to compare it against proposed structures (.cif - can be acquired from PCD or any other crystal structure database). 
+
 - **[High-throughput LMTO](https://github.com/balaranjan/High-throughput-LMTO):** This is a package to automate the steps involved in performing LMTO calculations. The code will take a list of .cif files as input and for each structure in the list, an LMTO calculation will be performed including optimization, band structure calculation, and density of states calculation (DOS). The outputs from band structure and DOS calculation are saved as comma-separated files.
 
 - **[High-throughput LMTO plotter](https://github.com/EmilJaffal/High-throughput-LMTO-plotter):** This script parses .csv files produced by the high-throughput LMTO package and automatically produces easily readable & aesthetically pleasing plots ready for publication, posters or presentations. Run the plotter.py file and input the directory to either: a folder (titled with the composition/structure) or a folder (that can be any name) of folders (titled with the composition/structure).
